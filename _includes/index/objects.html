@@ -1,5 +1,5 @@
-{%- assign templates = site.data[site.metadata] | where_exp: 'item','item.parentid == nil ' | map: "display_template" -%}
-{%- assign types = "image;audio;video;pdf;panorama;record;compound_object;multiple" | split: ";" -%}
+{%- assign templates = site.data[site.metadata] | map: "display_template" -%}
+{%- assign types = "image;audio;video;pdf;panorama;book;record;compound_object;multiple" | split: ";" -%}
 <div class="card mb-3" >
   <div class="card-body">
     <h2 class="card-title h5">Objects</h2>
@@ -32,7 +32,7 @@
       {%- endcase -%}
       {%- endif -%}
       {%- endfor -%}
-      <a class="btn btn-sm btn-outline-secondary mt-2" href="{{ '/data.html' | relative_url }}">View table</a>
+      <a class="btn btn-sm btn-outline-primary mt-2" href="{{ '/data.html' | relative_url }}">View table</a>
     </p>
   </div>
 </div>
