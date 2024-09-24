@@ -4,20 +4,17 @@
 layout: item/item-page-base
 ---
 
-<div class="card mb-4 text-center">
+<div class="card mb-4 text-center"></div>
     <div class="card-body">
-    
-        {% if page.object_location contains 'vimeo' or page.object_location contains 'youtu' %}
-        {% include item/video-embed.html %}
-        {% else %}
-        {% include item/video-player.html %}
-        {% endif %}
+        <p>
+            {% include item/item-thumb.html %}
+        </p>
 
         <div class="mt-2">
-            
+
             {% include item/download-buttons.html %}
-           
+
         </div>
-        
+
     </div>
 </div>
