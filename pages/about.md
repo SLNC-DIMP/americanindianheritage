@@ -11,7 +11,6 @@ credits: true
 {% include feature/jumbotron.html objectid="aihm033" %} 
 
 {% include feature/nav-menu.html sections="About the American Indian Heritage Collection;Learn More;The North Carolina Digital Collections" %}
-
 ## About the American Indian Heritage Collection
 
 This collection features items from the State Library of North Carolina's [Digital Collections](https://digital.ncdcr.gov/) and online resources [NCpedia](https://ncpedia.org/) and [ANCHOR](https://ncpedia.org/anchor/anchor) that that focus on American Indian tribal cultures, histories, biographies, and legends & folklore. These items show the important role American Indian people have had throughout the history of our state. This collection has been released ... Native American Heritage Month. 
