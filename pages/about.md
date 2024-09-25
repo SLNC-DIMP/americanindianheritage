@@ -8,14 +8,14 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="aihm033" %} 
+{% include feature/jumbotron.html objectid="/objects/033_stickball.jpg" heading=false text=false padding="5em" %} 
 
-{% include feature/nav-menu.html sections="About the American Indian Heritage Collection;Learn More;The North Carolina Digital Collections" %}
-## About the American Indian Heritage Collection
+{% include feature/nav-menu.html sections="About the Collection;Learn More;The North Carolina Digital Collections" %}
+## About the Collection
 
 This collection features items from the State Library of North Carolina's [Digital Collections](https://digital.ncdcr.gov/) and online resources [NCpedia](https://ncpedia.org/) and [ANCHOR](https://ncpedia.org/anchor/anchor) that that focus on American Indian tribal cultures, histories, biographies, and legends & folklore. These items show the important role American Indian people have had throughout the history of our state. This collection has been released ... Native American Heritage Month. 
 
-{% include feature/image.html objectid="ahim100" caption=false width="25"%}
+{% include feature/image.html objectid="aihm100" caption=false width="25"%}
 ## Learn More
 
 Native American Heritage Month came about as a result of efforts by American Indians to have recognition for the significant contributions the people of their tribes had made to the country throughout its history. Acknowledgement of these contributions first began in the 1900s and culminated with George H.W. Bush signing into the law a joint resolution that designated November as National American Indian Heritage Month (also known as Native American Indian Month).  
