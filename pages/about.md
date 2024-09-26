@@ -28,4 +28,4 @@ American Indians were the original inhabitants of this country and white colonis
 ## The North Carolina Digital Collections
 The North Carolina Digital Collections (NCDC) contain over 90,000 historic and recent photographs, state government publications, manuscripts, and other resources on topics related to North Carolina.  The Collections are free and full-text searchable, and bring together content from the State Archives of North Carolina and the State Library of North Carolina.
 
-{% include feature/button.html text="Find Out More About the NC Digital Collections" link="https://digital.ncdcr.gov/about" color="primary" centered="true" %}
+{% include feature/button.html text="Find Out More About the NC Digital Collections" link="https://digital.ncdcr.gov/about" color="attention" centered="true" %}
