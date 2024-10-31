@@ -97,3 +97,7 @@ filename,object_location,image_small,image_thumb
 097_museum_na.jpg,/objects/097_museum_na.jpg,/objects/small/097_museum_na_sm.jpg,/objects/thumbs/097_museum_na_th.jpg
 098_museum_na.jpg,/objects/098_museum_na.jpg,/objects/small/098_museum_na_sm.jpg,/objects/thumbs/098_museum_na_th.jpg
 100_aihm_toolkit.png,/objects/100_aihm_toolkit.png,/objects/small/100_aihm_toolkit_sm.jpg,/objects/thumbs/100_aihm_toolkit_th.jpg
+101_ai_colonalrecords.png,/objects/101_ai_colonalrecords.png,/objects/small/101_ai_colonalrecords_sm.jpg,/objects/thumbs/101_ai_colonalrecords_th.jpg
+102_NCMApreview.jpg,/objects/102_NCMApreview.jpg,/objects/small/102_ncmapreview_sm.jpg,/objects/thumbs/102_ncmapreview_th.jpg
+103_GuidetoArchives.jpg,/objects/103_GuidetoArchives.jpg,/objects/small/103_guidetoarchives_sm.jpg,/objects/thumbs/103_guidetoarchives_th.jpg
+104_TryonTreaty.jpg,/objects/104_TryonTreaty.jpg,/objects/small/104_tryontreaty_sm.jpg,/objects/thumbs/104_tryontreaty_th.jpg
