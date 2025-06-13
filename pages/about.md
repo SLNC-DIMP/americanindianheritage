@@ -5,7 +5,7 @@ permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: aihm033
+about-featured-image: /objects/033_stickball.jpg
 # set background-position for featured image, "center", "top", "bottom"
 position: bottom
 # major heading to display over featured image
