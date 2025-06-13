@@ -7,20 +7,17 @@ credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
 about-featured-image: /objects/033_stickball.jpg
 # set background-position for featured image, "center", "top", "bottom"
-position: bottom
+position: center
 # major heading to display over featured image
-heading: About the Collection
+heading: 
 # paragraph text below heading in featured image
 sub-heading: 
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
-padding: 6em
+padding: 15em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 ---
-
-{% include feature/jumbotron.html objectid="/objects/033_stickball.jpg" heading=false text=false padding="5em" %} 
-
 ## About the American Indian Heritage Collection
 
 This collection features items from the State Library of North Carolina's [Digital Collections](https://digital.ncdcr.gov/) and online resources [NCpedia](https://ncpedia.org/) and [ANCHOR](https://ncpedia.org/anchor/anchor) that that focus on American Indian tribal cultures, histories, biographies, and legends & folklore. Additionally items from other state agencies such as the American Indian Heritage Commission have been included. These items show the important role American Indian people have had throughout the history of our state. This collection is being released during American Indian Heritage Month as our way to honor the rich history and valuable role American Indian tribes and people hold in our state. 
