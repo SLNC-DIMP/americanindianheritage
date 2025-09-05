@@ -20,7 +20,7 @@ padding: 15em
 ---
 ## About the American Indian Heritage Collection
 
-This collection features items from the State Library of North Carolina's [Digital Collections](https://digital.ncdcr.gov/) and online resources [NCpedia](https://ncpedia.org/) and [ANCHOR](https://ncpedia.org/anchor/anchor) that that focus on American Indian tribal cultures, histories, biographies, and legends & folklore. Additionally items from other state agencies such as the American Indian Heritage Commission have been included. These items show the important role American Indian people have had throughout the history of our state. This collection is being released during American Indian Heritage Month as our way to honor the rich history and valuable role American Indian tribes and people hold in our state. 
+This collection features items from the State Library of North Carolina's [Digital Collections](https://digital.ncdcr.gov/) and online resources [NCpedia](https://ncpedia.org/) and [ANCHOR](https://ncpedia.org/anchor/anchor) that focus on American Indian tribal cultures, histories, biographies, and legends & folklore. Additionally items from other state agencies such as the American Indian Heritage Commission have been included. These items show the important role American Indian people have had throughout the history of our state. This collection is being released during American Indian Heritage Month as our way to honor the rich history and valuable role American Indian tribes and people hold in our state. 
 
 {% include feature/card.html objectid="/objects/100_aihm_toolkit.png" alt="American Indian Heritage toolkit title page" centered="true" width="50" link="https://aihc.nc.gov/ncaihc-american-indian-heritage-month-toolkit/open" %}
 ## Learn More
