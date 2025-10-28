@@ -2,3 +2,62 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+.form-select {
+    color: #10374a;
+    border-color: #10374a;
+}
+
+.form-select option {
+    color: #595959;
+}
+.form-control::placeholder {
+    color: black;
+    opacity:.75;
+}
+#site-search::placeholder{
+    color: #212529;
+    font-size:18px;
+    opacity: .75;
+}
+
+#filterTextBox::placeholder {
+    color:#545454;
+
+}
+.form-control {
+    border-color: #10374a;
+}
+.btn-lghtmain {
+    border-top-color: #10374a;
+    border-bottom-color: #10374a;
+    border-left-color: #10374a;
+}
+
+.btn-light, .btn-light:hover{
+    background-image: linear-gradient(white,#fff 6%,#f0f0f0);
+    -webkit-filter: none;
+    filter: none;
+    border: 1px solid #dedede;
+    color: #000;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    color: #fff;
+    background-color: #A31431;
+}
+.page-item .page-link {
+    color: #A31431;
+}
+
+.page-item .page-link:hover{
+    color: white;
+    background-color: #2A587E;
+    border-color: #10374a;
+}
+
+.page-item.active .page-link {
+    z-index: 3;
+    color: black;
+    background-color: #5E9DC9;
+    border-color: #10374a;
+}
