@@ -1,11 +1,11 @@
 color_class,color
-primary, #D11F44
-secondary, #194254
-success, #3B77A9
+primary, #cb193d
+secondary, #10374a
+success, #3773a5
 info,
 warning,
 danger,
 light, 
 dark,
-special, #3B77A9
-attention, #D11F44
+special, #3773a5
+attention, #cb193d
