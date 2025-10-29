@@ -2,6 +2,11 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+.btn-special:hover {
+    color: black;
+    background-color: #5E9DC9;
+    border-color: #10374a;
+}
 .form-select {
     color: #10374a;
     border-color: #10374a;
@@ -61,3 +66,4 @@
     background-color: #5E9DC9;
     border-color: #10374a;
 }
+//previous theme colors primary, attention:#D11F44, secondary:#194254, success, special:#3B77A9
