@@ -69,4 +69,10 @@
 #footer-logo{
     text-decoration: none;
 }
+thead {
+    border-top: none; /* Example: 2px solid red border */
+}
+.table>:not(:first-child) {
+    border-top:0px;
+}
 //previous theme colors primary, attention:#D11F44, secondary:#194254, success, special:#3B77A9
