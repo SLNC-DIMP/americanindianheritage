@@ -121,6 +121,7 @@ icons:
   icon-video: film
   icon-pdf: file-pdf
   icon-book: book
+  icon-html: filetype-html
   icon-record: file-text
   icon-panorama: book
   icon-compound-object: collection 

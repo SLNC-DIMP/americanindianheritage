@@ -30,6 +30,9 @@ function getIcon(objectTemplate,objectFormat,svgType) {
     } else if (iconTemplate.includes("compound")) {
         iconId = "icon-compound-object";
         iconTitle = "compound object icon";
+    } else if (iconTemplate.includes("html")) {
+        iconId = "icon-html";
+        iconTitle = "html file icon";
     } else if (iconTemplate.includes("multiple")) {
         iconId = "icon-multiple";
         iconTitle = "multiple object icon";
