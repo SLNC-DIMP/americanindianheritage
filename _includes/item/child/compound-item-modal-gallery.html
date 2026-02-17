@@ -102,18 +102,15 @@
                                                         {% include item/child/panorama.html %}
                                                     {% elsif child.display_template == 'book' %}
                                                         {% include item/child/book.html %}
+                                                    {% elsif child.display_template == 'html' %}
+                                                        {% include item/child/html.html %}
                                                     {% else %}
                                                         {% include item/child/item-thumb.html %}
                                                     {% endif %}
                                                 </div>
-                                                {% if child.display_template != 'book'%}
-                                                <div class="my-2">
-                                                   {% include item/child/download-buttons.html %}
-                                                </div>
-                                                {% elsif child.display_template == 'book' and child.date%}
-                                                <div class="my-2">
-                                                   {% include item/child/download-buttons.html %}
-                                                </div>
+                                                {% if child.display_template != 'book' and child.display_template != 'html' %}
+                                                
+                                                
                                                 {% endif %}
                                             </div>
                                         </div>
